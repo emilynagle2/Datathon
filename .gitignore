@@ -2,3 +2,4 @@
 *.env
 credentials.json
 
+Notebooks/__pycache__/snowflake_connect.cpython-313.pyc
