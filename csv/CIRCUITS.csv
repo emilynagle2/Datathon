@@ -1,0 +1,78 @@
+CIRCUITID,NAME,LOCATION,COUNTRY,LAT,LNG,ALT,ALTITUDE_CATEGORY,ESTIMATED_LENGTH_KM,AVG_RACE_LAPS,ESTIMATED_RACE_DISTANCE_KM
+1,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.84970,144.968000,10,LOW,5.294654963175764,57.666666666666664,305.32510287646903
+2,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738000,18,LOW,5.543337741326389,56.0,310.42691351427777
+3,Bahrain International Circuit,Sakhir,Bahrain,26.03250,50.510600,7,LOW,5.26760097198021,59.416666666666664,312.9832910851575
+4,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57000,2.261110,109,LOW,4.659043291274961,66.0,307.49685722414745
+5,Istanbul Park,Istanbul,Turkey,40.95170,29.405000,130,LOW,5.337986408138889,58.0,309.6032116720555
+6,Circuit de Monaco,Monte-Carlo,Monaco,43.73470,7.420560,7,LOW,3.3373210877286676,76.6,255.63879532001593
+7,Circuit Gilles Villeneuve,Montreal,Canada,45.50000,-73.522800,13,LOW,4.360989445132646,69.77777777777777,304.30015239370016
+8,Circuit de Nevers Magny-Cours,Magny Cours,France,46.86420,3.163610,228,LOW,,,
+9,Silverstone Circuit,Silverstone,UK,52.07860,-1.016940,153,LOW,5.89098710223075,51.916666666666664,305.8404137241464
+10,Hockenheimring,Hockenheim,Germany,49.32780,8.565830,103,LOW,4.57399020697832,66.25,303.0268512123137
+11,Hungaroring,Budapest,Hungary,47.57890,19.248600,264,LOW,4.38098880577622,69.9090909090909,306.2709446947194
+12,Valencia Street Circuit,Valencia,Spain,39.45890,-0.331667,4,LOW,,,
+13,Circuit de Spa-Francorchamps,Spa,Belgium,50.43720,5.971390,401,LOW,7.003983780254011,40.0,280.1593512101604
+14,Autodromo Nazionale di Monza,Monza,Italy,45.61560,9.281110,162,LOW,5.79272802906473,52.81818181818182,305.9613622624189
+15,Marina Bay Street Circuit,Marina Bay,Singapore,1.29140,103.864000,18,LOW,5.037167947607937,60.55555555555556,305.0285034940362
+16,Fuji Speedway,Oyama,Japan,35.37170,138.927000,583,LOW,,,
+17,Shanghai International Circuit,Shanghai,China,31.33890,121.220000,5,LOW,5.450986610209312,55.714285714285715,303.69782542594737
+18,Autódromo José Carlos Pace,São Paulo,Brazil,-23.70360,-46.699700,785,LOW,4.308989648810579,70.8,305.07646713578896
+19,Indianapolis Motor Speedway,Indianapolis,USA,39.79500,-86.234700,223,LOW,,,
+20,Nürburgring,Nürburg,Germany,50.33560,6.947500,578,LOW,5.147986154208334,60.0,308.8791692525
+21,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.34390,11.716700,37,LOW,4.908988848219373,63.0,309.26629743782047
+22,Suzuka Circuit,Suzuka,Japan,34.84310,136.541000,45,LOW,5.806986973533084,49.111111111111114,285.18758247795813
+80,Las Vegas Strip Street Circuit,Las Vegas,United States,36.11470,-115.173000,642,LOW,6.200987506340278,50.0,310.04937531701387
+24,Yas Marina Circuit,Abu Dhabi,UAE,24.46720,54.603100,3,LOW,5.456307815582314,56.09090909090909,306.04926565584435
+25,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.69430,-58.459300,8,LOW,,,
+26,Circuito de Jerez,Jerez de la Frontera,Spain,36.70830,-6.034170,37,LOW,,,
+27,Autódromo do Estoril,Estoril,Portugal,38.75060,-9.394170,130,LOW,,,
+28,Okayama International Circuit,Okayama,Japan,34.91500,134.221000,266,LOW,,,
+29,Adelaide Street Circuit,Adelaide,Australia,-34.92720,138.617000,58,LOW,,,
+30,Kyalami,Midrand,South Africa,-25.98940,28.076700,1460,HIGH,,,
+31,Donington Park,Castle Donington,UK,52.83060,-1.375280,88,LOW,,,
+32,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.40420,-99.090700,2227,HIGH,4.3039891296777775,71.0,305.5832282071222
+33,Phoenix street circuit,Phoenix,USA,33.44790,-112.075000,345,LOW,,,
+34,Circuit Paul Ricard,Le Castellet,France,43.25060,5.791670,432,LOW,5.8419850938924505,53.0,309.62520997629986
+35,Korean International Circuit,Yeongam County,Korea,34.73330,126.417000,0,LOW,,,
+36,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil,-22.97560,-43.395000,1126,HIGH,,,
+37,Detroit Street Circuit,Detroit,USA,42.32980,-83.040100,177,LOW,,,
+38,Brands Hatch,Kent,UK,51.35690,0.263056,145,LOW,,,
+39,Circuit Park Zandvoort,Zandvoort,Netherlands,52.38880,4.540920,6,LOW,4.258989393097222,72.0,306.647236303
+40,Zolder,Heusden-Zolder,Belgium,50.98940,5.256940,36,LOW,,,
+41,Dijon-Prenois,Dijon,France,47.36250,4.899130,484,LOW,,,
+42,Fair Park,Dallas,USA,32.77740,-96.758700,139,LOW,,,
+43,Long Beach,California,USA,33.76510,-118.189000,12,LOW,,,
+44,Las Vegas Street Circuit,Nevada,USA,36.11620,-115.174000,639,LOW,,,
+45,Jarama,Madrid,Spain,40.61710,-3.585580,609,LOW,,,
+46,Watkins Glen,New York State,USA,42.33690,-76.927200,485,LOW,,,
+47,Scandinavian Raceway,Anderstorp,Sweden,57.26530,13.604200,153,LOW,,,
+48,Mosport International Raceway,Ontario,Canada,44.04810,-78.675600,332,LOW,,,
+49,Montjuïc,Barcelona,Spain,41.36640,2.151670,79,LOW,,,
+50,Nivelles-Baulers,Brussels,Belgium,50.62110,4.326940,139,LOW,,,
+51,Charade Circuit,Clermont-Ferrand,France,45.74720,3.038890,790,LOW,,,
+52,Circuit Mont-Tremblant,Quebec,Canada,46.18770,-74.609900,214,LOW,,,
+53,Rouen-Les-Essarts,Rouen,France,49.33060,1.004580,81,LOW,,,
+54,Le Mans,Le Mans,France,47.95000,0.224231,67,LOW,,,
+55,Reims-Gueux,Reims,France,49.25420,3.930830,88,LOW,,,
+56,Prince George Circuit,Eastern Cape Province,South Africa,-33.04860,27.873600,15,LOW,,,
+57,Zeltweg,Styria,Austria,47.20390,14.747800,676,LOW,,,
+58,Aintree,Liverpool,UK,53.47690,-2.940560,20,LOW,,,
+59,Circuito da Boavista,Oporto,Portugal,41.17050,-8.673250,28,LOW,,,
+60,Riverside International Raceway,California,USA,33.93700,-117.273000,470,LOW,,,
+61,AVUS,Berlin,Germany,52.48060,13.251400,53,LOW,,,
+62,Monsanto Park Circuit,Lisbon,Portugal,38.71970,-9.203060,158,LOW,,,
+63,Sebring International Raceway,Florida,USA,27.45470,-81.348300,18,LOW,,,
+64,Ain Diab,Casablanca,Morocco,33.57860,-7.687500,19,LOW,,,
+65,Pescara Circuit,Pescara,Italy,42.47500,14.150800,129,LOW,,,
+66,Circuit Bremgarten,Bern,Switzerland,46.95890,7.401940,551,LOW,,,
+67,Circuit de Pedralbes,Barcelona,Spain,41.39030,2.116670,85,LOW,,,
+68,Buddh International Circuit,Uttar Pradesh,India,28.34870,77.533100,194,LOW,,,
+69,Circuit of the Americas,Austin,USA,30.13280,-97.641100,161,LOW,5.512986013046829,56.0,308.72721673062244
+70,Red Bull Ring,Spielberg,Austria,47.21970,14.764700,678,LOW,4.31989623218316,71.0,306.71263248500435
+71,Sochi Autodrom,Sochi,Russia,43.40570,39.957800,2,LOW,5.8479863632339955,52.875,309.21227895599753
+73,Baku City Circuit,Baku,Azerbaijan,40.37250,49.853300,-7,LOW,6.002985129180556,51.0,306.15224158820837
+75,Autódromo Internacional do Algarve,Portimão,Portugal,37.22700,-8.626700,108,LOW,4.652988061118234,66.0,307.09721203380343
+76,Autodromo Internazionale del Mugello,Mugello,Italy,43.99750,11.371900,255,LOW,5.244986590061728,59.0,309.45420881364197
+77,Jeddah Corniche Circuit,Jeddah,Saudi Arabia,21.63190,39.104400,15,LOW,6.173986286973304,50.0,308.6993143486652
+78,Losail International Circuit,Al Daayen,Qatar,25.49000,51.454200,12,LOW,5.405061912658731,57.0,308.08852902154763
+79,Miami International Autodrome,Miami,USA,25.95810,-80.238900,0,LOW,5.41198635325463,57.0,308.48322213551387

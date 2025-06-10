@@ -1,0 +1,229 @@
+YEAR,NAME,DATE,DRIVER_NAME,DRIVER_NATIONALITY,CONSTRUCTOR_NAME,CONSTRUCTOR_NATIONALITY,POINTS,LAPS,FASTESTLAPTIME,STARTING_POSITION,POSITIONS_GAINED
+2024,Abu Dhabi Grand Prix,2024-12-08,Lando Norris,British,McLaren,British,25.0,58,1:27.438,1,0
+2024,Qatar Grand Prix,2024-12-01,Max Verstappen,Dutch,Red Bull,Austrian,25.0,57,1:22.905,2,1
+2024,Las Vegas Grand Prix,2024-11-23,George Russell,British,Mercedes,German,25.0,50,1:35.717,1,0
+2024,São Paulo Grand Prix,2024-11-03,Max Verstappen,Dutch,Red Bull,Austrian,26.0,69,1:20.472,17,16
+2024,Mexico City Grand Prix,2024-10-27,Carlos Sainz,Spanish,Ferrari,Italian,25.0,71,1:20.137,1,0
+2024,United States Grand Prix,2024-10-20,Charles Leclerc,Monegasque,Ferrari,Italian,25.0,56,1:37.834,4,3
+2024,Singapore Grand Prix,2024-09-22,Lando Norris,British,McLaren,British,25.0,62,1:34.925,1,0
+2024,Azerbaijan Grand Prix,2024-09-15,Oscar Piastri,Australian,McLaren,British,25.0,51,1:47.060,2,1
+2024,Italian Grand Prix,2024-09-01,Charles Leclerc,Monegasque,Ferrari,Italian,25.0,53,1:23.226,4,3
+2024,Dutch Grand Prix,2024-08-25,Lando Norris,British,McLaren,British,26.0,72,1:13.817,1,0
+2024,Belgian Grand Prix,2024-07-28,Lewis Hamilton,British,Mercedes,German,25.0,44,1:46.653,3,2
+2024,Hungarian Grand Prix,2024-07-21,Oscar Piastri,Australian,McLaren,British,25.0,70,1:21.716,2,1
+2024,British Grand Prix,2024-07-07,Lewis Hamilton,British,Mercedes,German,25.0,52,1:29.438,2,1
+2024,Austrian Grand Prix,2024-06-30,George Russell,British,Mercedes,German,25.0,71,1:09.164,3,2
+2024,Spanish Grand Prix,2024-06-23,Max Verstappen,Dutch,Red Bull,Austrian,25.0,66,1:17.776,2,1
+2024,Canadian Grand Prix,2024-06-09,Max Verstappen,Dutch,Red Bull,Austrian,25.0,70,1:15.569,2,1
+2024,Monaco Grand Prix,2024-05-26,Charles Leclerc,Monegasque,Ferrari,Italian,25.0,78,,1,0
+2024,Emilia Romagna Grand Prix,2024-05-19,Max Verstappen,Dutch,Red Bull,Austrian,25.0,63,1:20.366,1,0
+2024,Miami Grand Prix,2024-05-05,Lando Norris,British,McLaren,British,25.0,57,1:30.980,5,4
+2024,Chinese Grand Prix,2024-04-21,Max Verstappen,Dutch,Red Bull,Austrian,25.0,56,1:38.406,1,0
+2024,Japanese Grand Prix,2024-04-07,Max Verstappen,Dutch,Red Bull,Austrian,26.0,53,1:33.706,1,0
+2024,Australian Grand Prix,2024-03-24,Carlos Sainz,Spanish,Ferrari,Italian,25.0,58,1:20.031,2,1
+2024,Saudi Arabian Grand Prix,2024-03-09,Max Verstappen,Dutch,Red Bull,Austrian,25.0,50,1:31.773,1,0
+2024,Bahrain Grand Prix,2024-03-02,Max Verstappen,Dutch,Red Bull,Austrian,26.0,57,1:32.608,1,0
+2023,Abu Dhabi Grand Prix,2023-11-26,Max Verstappen,Dutch,Red Bull,Austrian,26.0,58,1:26.993,1,0
+2023,Las Vegas Grand Prix,2023-11-19,Max Verstappen,Dutch,Red Bull,Austrian,25.0,50,1:35.614,2,1
+2023,São Paulo Grand Prix,2023-11-05,Max Verstappen,Dutch,Red Bull,Austrian,25.0,71,1:13.422,1,0
+2023,Mexico City Grand Prix,2023-10-29,Max Verstappen,Dutch,Red Bull,Austrian,25.0,71,1:21.644,3,2
+2023,United States Grand Prix,2023-10-22,Max Verstappen,Dutch,Red Bull,Austrian,25.0,56,1:40.028,6,5
+2023,Qatar Grand Prix,2023-10-08,Max Verstappen,Dutch,Red Bull,Austrian,26.0,57,1:24.319,1,0
+2023,Japanese Grand Prix,2023-09-24,Max Verstappen,Dutch,Red Bull,Austrian,26.0,53,1:34.183,1,0
+2023,Singapore Grand Prix,2023-09-17,Carlos Sainz,Spanish,Ferrari,Italian,25.0,62,1:37.666,1,0
+2023,Italian Grand Prix,2023-09-03,Max Verstappen,Dutch,Red Bull,Austrian,25.0,51,1:25.240,2,1
+2023,Dutch Grand Prix,2023-08-27,Max Verstappen,Dutch,Red Bull,Austrian,25.0,72,1:13.889,1,0
+2023,Belgian Grand Prix,2023-07-30,Max Verstappen,Dutch,Red Bull,Austrian,25.0,44,1:48.922,6,5
+2023,Hungarian Grand Prix,2023-07-23,Max Verstappen,Dutch,Red Bull,Austrian,26.0,70,1:20.504,2,1
+2023,British Grand Prix,2023-07-09,Max Verstappen,Dutch,Red Bull,Austrian,26.0,52,1:30.275,1,0
+2023,Austrian Grand Prix,2023-07-02,Max Verstappen,Dutch,Red Bull,Austrian,26.0,71,1:07.012,1,0
+2023,Canadian Grand Prix,2023-06-18,Max Verstappen,Dutch,Red Bull,Austrian,25.0,70,1:15.594,1,0
+2023,Spanish Grand Prix,2023-06-04,Max Verstappen,Dutch,Red Bull,Austrian,26.0,66,1:16.330,1,0
+2023,Monaco Grand Prix,2023-05-28,Max Verstappen,Dutch,Red Bull,Austrian,25.0,78,1:16.604,1,0
+2023,Miami Grand Prix,2023-05-07,Max Verstappen,Dutch,Red Bull,Austrian,26.0,57,1:29.708,9,8
+2023,Azerbaijan Grand Prix,2023-04-30,Sergio Pérez,Mexican,Red Bull,Austrian,25.0,51,1:44.589,3,2
+2023,Australian Grand Prix,2023-04-02,Max Verstappen,Dutch,Red Bull,Austrian,25.0,58,1:20.342,1,0
+2023,Saudi Arabian Grand Prix,2023-03-19,Sergio Pérez,Mexican,Red Bull,Austrian,25.0,50,1:32.188,1,0
+2023,Bahrain Grand Prix,2023-03-05,Max Verstappen,Dutch,Red Bull,Austrian,25.0,57,1:36.236,1,0
+2022,Abu Dhabi Grand Prix,2022-11-20,Max Verstappen,Dutch,Red Bull,Austrian,25.0,58,1:29.392,1,0
+2022,São Paulo Grand Prix,2022-11-13,George Russell,British,Mercedes,German,26.0,71,1:13.785,1,0
+2022,Mexico City Grand Prix,2022-10-30,Max Verstappen,Dutch,Red Bull,Austrian,25.0,71,1:22.046,1,0
+2022,United States Grand Prix,2022-10-23,Max Verstappen,Dutch,Red Bull,Austrian,25.0,56,1:39.541,2,1
+2022,Japanese Grand Prix,2022-10-09,Max Verstappen,Dutch,Red Bull,Austrian,25.0,28,1:44.911,1,0
+2022,Singapore Grand Prix,2022-10-02,Sergio Pérez,Mexican,Red Bull,Austrian,25.0,59,1:48.165,2,1
+2022,Italian Grand Prix,2022-09-11,Max Verstappen,Dutch,Red Bull,Austrian,25.0,53,1:24.745,7,6
+2022,Dutch Grand Prix,2022-09-04,Max Verstappen,Dutch,Red Bull,Austrian,26.0,72,1:13.652,1,0
+2022,Belgian Grand Prix,2022-08-28,Max Verstappen,Dutch,Red Bull,Austrian,26.0,44,1:49.354,14,13
+2022,Hungarian Grand Prix,2022-07-31,Max Verstappen,Dutch,Red Bull,Austrian,25.0,70,1:22.126,10,9
+2022,French Grand Prix,2022-07-24,Max Verstappen,Dutch,Red Bull,Austrian,25.0,53,1:37.491,2,1
+2022,Austrian Grand Prix,2022-07-10,Charles Leclerc,Monegasque,Ferrari,Italian,25.0,71,1:07.583,2,1
+2022,British Grand Prix,2022-07-03,Carlos Sainz,Spanish,Ferrari,Italian,25.0,52,1:30.813,1,0
+2022,Canadian Grand Prix,2022-06-19,Max Verstappen,Dutch,Red Bull,Austrian,25.0,70,1:15.839,1,0
+2022,Azerbaijan Grand Prix,2022-06-12,Max Verstappen,Dutch,Red Bull,Austrian,25.0,51,1:46.050,3,2
+2022,Monaco Grand Prix,2022-05-29,Sergio Pérez,Mexican,Red Bull,Austrian,25.0,64,1:16.028,3,2
+2022,Spanish Grand Prix,2022-05-22,Max Verstappen,Dutch,Red Bull,Austrian,25.0,66,1:25.456,2,1
+2022,Miami Grand Prix,2022-05-08,Max Verstappen,Dutch,Red Bull,Austrian,26.0,57,1:31.361,3,2
+2022,Emilia Romagna Grand Prix,2022-04-24,Max Verstappen,Dutch,Red Bull,Austrian,26.0,63,1:18.446,1,0
+2022,Australian Grand Prix,2022-04-10,Charles Leclerc,Monegasque,Ferrari,Italian,26.0,58,1:20.260,1,0
+2022,Saudi Arabian Grand Prix,2022-03-27,Max Verstappen,Dutch,Red Bull,Austrian,25.0,50,1:31.772,4,3
+2022,Bahrain Grand Prix,2022-03-20,Charles Leclerc,Monegasque,Ferrari,Italian,26.0,57,1:34.570,1,0
+2021,Abu Dhabi Grand Prix,2021-12-12,Max Verstappen,Dutch,Red Bull,Austrian,26.0,58,1:26.103,1,0
+2021,Saudi Arabian Grand Prix,2021-12-05,Lewis Hamilton,British,Mercedes,German,26.0,50,1:30.734,1,0
+2021,Qatar Grand Prix,2021-11-21,Lewis Hamilton,British,Mercedes,German,25.0,57,1:25.084,1,0
+2021,São Paulo Grand Prix,2021-11-14,Lewis Hamilton,British,Mercedes,German,25.0,71,1:11.982,10,9
+2021,Mexico City Grand Prix,2021-11-07,Max Verstappen,Dutch,Red Bull,Austrian,25.0,71,1:18.999,3,2
+2021,United States Grand Prix,2021-10-24,Max Verstappen,Dutch,Red Bull,Austrian,25.0,56,1:39.096,1,0
+2021,Turkish Grand Prix,2021-10-10,Valtteri Bottas,Finnish,Mercedes,German,26.0,58,1:30.432,1,0
+2021,Russian Grand Prix,2021-09-26,Lewis Hamilton,British,Mercedes,German,25.0,53,1:37.575,4,3
+2021,Italian Grand Prix,2021-09-12,Daniel Ricciardo,Australian,McLaren,British,26.0,53,1:24.812,2,1
+2021,Dutch Grand Prix,2021-09-05,Max Verstappen,Dutch,Red Bull,Austrian,25.0,72,1:13.275,1,0
+2021,Belgian Grand Prix,2021-08-29,Max Verstappen,Dutch,Red Bull,Austrian,12.5,1,,1,0
+2021,Hungarian Grand Prix,2021-08-01,Esteban Ocon,French,Alpine F1 Team,French,25.0,70,1:21.421,8,7
+2021,British Grand Prix,2021-07-18,Lewis Hamilton,British,Mercedes,German,25.0,52,1:29.699,2,1
+2021,Austrian Grand Prix,2021-07-04,Max Verstappen,Dutch,Red Bull,Austrian,26.0,71,1:06.200,1,0
+2021,Styrian Grand Prix,2021-06-27,Max Verstappen,Dutch,Red Bull,Austrian,25.0,71,1:08.017,1,0
+2021,French Grand Prix,2021-06-20,Max Verstappen,Dutch,Red Bull,Austrian,26.0,53,1:36.404,1,0
+2021,Azerbaijan Grand Prix,2021-06-06,Sergio Pérez,Mexican,Red Bull,Austrian,25.0,51,1:44.687,6,5
+2021,Monaco Grand Prix,2021-05-23,Max Verstappen,Dutch,Red Bull,Austrian,25.0,78,1:14.649,2,1
+2021,Spanish Grand Prix,2021-05-09,Lewis Hamilton,British,Mercedes,German,25.0,66,1:20.665,1,0
+2021,Portuguese Grand Prix,2021-05-02,Lewis Hamilton,British,Mercedes,German,25.0,66,1:20.933,2,1
+2021,Emilia Romagna Grand Prix,2021-04-18,Max Verstappen,Dutch,Red Bull,Austrian,25.0,63,1:17.524,3,2
+2021,Bahrain Grand Prix,2021-03-28,Lewis Hamilton,British,Mercedes,German,25.0,56,1:34.015,2,1
+2020,Abu Dhabi Grand Prix,2020-12-13,Max Verstappen,Dutch,Red Bull,Austrian,25.0,55,1:40.958,1,0
+2020,Sakhir Grand Prix,2020-12-06,Sergio Pérez,Mexican,Racing Point,British,25.0,87,0:56.789,5,4
+2020,Bahrain Grand Prix,2020-11-29,Lewis Hamilton,British,Mercedes,German,25.0,57,1:32.864,1,0
+2020,Turkish Grand Prix,2020-11-15,Lewis Hamilton,British,Mercedes,German,25.0,58,1:39.413,6,5
+2020,Emilia Romagna Grand Prix,2020-11-01,Lewis Hamilton,British,Mercedes,German,26.0,63,1:15.484,2,1
+2020,Portuguese Grand Prix,2020-10-25,Lewis Hamilton,British,Mercedes,German,26.0,66,1:18.750,1,0
+2020,Eifel Grand Prix,2020-10-11,Lewis Hamilton,British,Mercedes,German,25.0,60,1:28.145,2,1
+2020,Russian Grand Prix,2020-09-27,Valtteri Bottas,Finnish,Mercedes,German,26.0,53,1:37.030,3,2
+2020,Tuscan Grand Prix,2020-09-13,Lewis Hamilton,British,Mercedes,German,26.0,59,1:18.833,1,0
+2020,Italian Grand Prix,2020-09-06,Pierre Gasly,French,AlphaTauri,Italian,25.0,53,1:24.037,10,9
+2020,Belgian Grand Prix,2020-08-30,Lewis Hamilton,British,Mercedes,German,25.0,44,1:47.758,1,0
+2020,Spanish Grand Prix,2020-08-16,Lewis Hamilton,British,Mercedes,German,25.0,66,1:19.822,1,0
+2020,70th Anniversary Grand Prix,2020-08-09,Max Verstappen,Dutch,Red Bull,Austrian,25.0,52,1:29.465,4,3
+2020,British Grand Prix,2020-08-02,Lewis Hamilton,British,Mercedes,German,25.0,52,1:29.238,1,0
+2020,Hungarian Grand Prix,2020-07-19,Lewis Hamilton,British,Mercedes,German,26.0,70,1:16.627,1,0
+2020,Styrian Grand Prix,2020-07-12,Lewis Hamilton,British,Mercedes,German,25.0,71,1:06.719,1,0
+2020,Austrian Grand Prix,2020-07-05,Valtteri Bottas,Finnish,Mercedes,German,25.0,71,1:07.657,1,0
+2019,Abu Dhabi Grand Prix,2019-12-01,Lewis Hamilton,British,Mercedes,German,26.0,55,1:39.283,1,0
+2019,Brazilian Grand Prix,2019-11-17,Max Verstappen,Dutch,Red Bull,Austrian,25.0,71,1:10.862,1,0
+2019,United States Grand Prix,2019-11-03,Valtteri Bottas,Finnish,Mercedes,German,25.0,56,1:36.957,1,0
+2019,Mexican Grand Prix,2019-10-27,Lewis Hamilton,British,Mercedes,German,25.0,71,1:19.461,3,2
+2019,Japanese Grand Prix,2019-10-13,Valtteri Bottas,Finnish,Mercedes,German,25.0,52,1:31.862,3,2
+2019,Russian Grand Prix,2019-09-29,Lewis Hamilton,British,Mercedes,German,26.0,53,1:35.761,2,1
+2019,Singapore Grand Prix,2019-09-22,Sebastian Vettel,German,Ferrari,Italian,25.0,61,1:44.802,3,2
+2019,Italian Grand Prix,2019-09-08,Charles Leclerc,Monegasque,Ferrari,Italian,25.0,53,1:23.009,1,0
+2019,Belgian Grand Prix,2019-09-01,Charles Leclerc,Monegasque,Ferrari,Italian,25.0,44,1:46.664,1,0
+2019,Hungarian Grand Prix,2019-08-04,Lewis Hamilton,British,Mercedes,German,25.0,70,1:18.528,3,2
+2019,German Grand Prix,2019-07-28,Max Verstappen,Dutch,Red Bull,Austrian,26.0,64,1:16.645,2,1
+2019,British Grand Prix,2019-07-14,Lewis Hamilton,British,Mercedes,German,26.0,52,1:27.369,2,1
+2019,Austrian Grand Prix,2019-06-30,Max Verstappen,Dutch,Red Bull,Austrian,26.0,71,1:07.475,2,1
+2019,French Grand Prix,2019-06-23,Lewis Hamilton,British,Mercedes,German,25.0,53,1:32.764,1,0
+2019,Canadian Grand Prix,2019-06-09,Lewis Hamilton,British,Mercedes,German,25.0,70,1:14.813,2,1
+2019,Monaco Grand Prix,2019-05-26,Lewis Hamilton,British,Mercedes,German,25.0,78,1:16.167,1,0
+2019,Spanish Grand Prix,2019-05-12,Lewis Hamilton,British,Mercedes,German,26.0,66,1:18.492,2,1
+2019,Azerbaijan Grand Prix,2019-04-28,Valtteri Bottas,Finnish,Mercedes,German,25.0,51,1:44.024,1,0
+2019,Chinese Grand Prix,2019-04-14,Lewis Hamilton,British,Mercedes,German,25.0,56,1:35.892,2,1
+2019,Bahrain Grand Prix,2019-03-31,Lewis Hamilton,British,Mercedes,German,25.0,57,1:33.528,3,2
+2019,Australian Grand Prix,2019-03-17,Valtteri Bottas,Finnish,Mercedes,German,26.0,58,1:25.580,2,1
+2018,Abu Dhabi Grand Prix,2018-11-25,Lewis Hamilton,British,Mercedes,German,25.0,55,1:41.357,1,0
+2018,Brazilian Grand Prix,2018-11-11,Lewis Hamilton,British,Mercedes,German,25.0,71,1:11.795,1,0
+2018,Mexican Grand Prix,2018-10-28,Max Verstappen,Dutch,Red Bull,Austrian,25.0,71,1:19.186,2,1
+2018,United States Grand Prix,2018-10-21,Kimi Räikkönen,Finnish,Ferrari,Italian,25.0,56,1:38.482,2,1
+2018,Japanese Grand Prix,2018-10-07,Lewis Hamilton,British,Mercedes,German,25.0,53,1:32.785,1,0
+2018,Russian Grand Prix,2018-09-30,Lewis Hamilton,British,Mercedes,German,25.0,53,1:35.916,2,1
+2018,Singapore Grand Prix,2018-09-16,Lewis Hamilton,British,Mercedes,German,25.0,61,1:42.913,1,0
+2018,Italian Grand Prix,2018-09-02,Lewis Hamilton,British,Mercedes,German,25.0,53,1:22.497,3,2
+2018,Belgian Grand Prix,2018-08-26,Sebastian Vettel,German,Ferrari,Italian,25.0,44,1:46.644,2,1
+2018,Hungarian Grand Prix,2018-07-29,Lewis Hamilton,British,Mercedes,German,25.0,70,1:21.107,1,0
+2018,German Grand Prix,2018-07-22,Lewis Hamilton,British,Mercedes,German,25.0,67,1:15.545,14,13
+2018,British Grand Prix,2018-07-08,Sebastian Vettel,German,Ferrari,Italian,25.0,52,1:30.696,2,1
+2018,Austrian Grand Prix,2018-07-01,Max Verstappen,Dutch,Red Bull,Austrian,25.0,71,1:07.442,4,3
+2018,French Grand Prix,2018-06-24,Lewis Hamilton,British,Mercedes,German,25.0,53,1:34.509,1,0
+2018,Canadian Grand Prix,2018-06-10,Sebastian Vettel,German,Ferrari,Italian,25.0,68,1:13.964,1,0
+2018,Monaco Grand Prix,2018-05-27,Daniel Ricciardo,Australian,Red Bull,Austrian,25.0,78,1:15.562,1,0
+2018,Spanish Grand Prix,2018-05-13,Lewis Hamilton,British,Mercedes,German,25.0,66,1:19.133,1,0
+2018,Azerbaijan Grand Prix,2018-04-29,Lewis Hamilton,British,Mercedes,German,25.0,51,1:45.412,2,1
+2018,Chinese Grand Prix,2018-04-15,Daniel Ricciardo,Australian,Red Bull,Austrian,25.0,56,1:35.785,6,5
+2018,Bahrain Grand Prix,2018-04-08,Sebastian Vettel,German,Ferrari,Italian,25.0,57,1:34.453,1,0
+2018,Australian Grand Prix,2018-03-25,Sebastian Vettel,German,Ferrari,Italian,25.0,58,1:26.469,3,2
+2017,Abu Dhabi Grand Prix,2017-11-26,Valtteri Bottas,Finnish,Mercedes,German,25.0,55,1:40.650,1,0
+2017,Brazilian Grand Prix,2017-11-12,Sebastian Vettel,German,Ferrari,Italian,25.0,71,1:12.539,2,1
+2017,Mexican Grand Prix,2017-10-29,Max Verstappen,Dutch,Red Bull,Austrian,25.0,71,1:18.892,2,1
+2017,United States Grand Prix,2017-10-22,Lewis Hamilton,British,Mercedes,German,25.0,56,1:38.776,1,0
+2017,Japanese Grand Prix,2017-10-08,Lewis Hamilton,British,Mercedes,German,25.0,53,1:33.780,1,0
+2017,Malaysian Grand Prix,2017-10-01,Max Verstappen,Dutch,Red Bull,Austrian,25.0,56,1:34.467,3,2
+2017,Singapore Grand Prix,2017-09-17,Lewis Hamilton,British,Mercedes,German,25.0,58,1:45.008,5,4
+2017,Italian Grand Prix,2017-09-03,Lewis Hamilton,British,Mercedes,German,25.0,53,1:23.488,1,0
+2017,Belgian Grand Prix,2017-08-27,Lewis Hamilton,British,Mercedes,German,25.0,44,1:46.603,1,0
+2017,Hungarian Grand Prix,2017-07-30,Sebastian Vettel,German,Ferrari,Italian,25.0,70,1:20.807,1,0
+2017,British Grand Prix,2017-07-16,Lewis Hamilton,British,Mercedes,German,25.0,51,1:30.621,1,0
+2017,Austrian Grand Prix,2017-07-09,Valtteri Bottas,Finnish,Mercedes,German,25.0,71,1:07.847,1,0
+2017,Azerbaijan Grand Prix,2017-06-25,Daniel Ricciardo,Australian,Red Bull,Austrian,25.0,51,1:44.882,10,9
+2017,Canadian Grand Prix,2017-06-11,Lewis Hamilton,British,Mercedes,German,25.0,70,1:14.551,1,0
+2017,Monaco Grand Prix,2017-05-28,Sebastian Vettel,German,Ferrari,Italian,25.0,78,1:15.238,2,1
+2017,Spanish Grand Prix,2017-05-14,Lewis Hamilton,British,Mercedes,German,25.0,66,1:23.593,1,0
+2017,Russian Grand Prix,2017-04-30,Valtteri Bottas,Finnish,Mercedes,German,25.0,52,1:37.367,3,2
+2017,Bahrain Grand Prix,2017-04-16,Sebastian Vettel,German,Ferrari,Italian,25.0,57,1:33.826,3,2
+2017,Chinese Grand Prix,2017-04-09,Lewis Hamilton,British,Mercedes,German,25.0,56,1:35.378,1,0
+2017,Australian Grand Prix,2017-03-26,Sebastian Vettel,German,Ferrari,Italian,25.0,57,1:26.638,2,1
+2016,Abu Dhabi Grand Prix,2016-11-27,Lewis Hamilton,British,Mercedes,German,25.0,55,1:45.137,1,0
+2016,Brazilian Grand Prix,2016-11-13,Lewis Hamilton,British,Mercedes,German,25.0,71,1:25.639,1,0
+2016,Mexican Grand Prix,2016-10-30,Lewis Hamilton,British,Mercedes,German,25.0,71,1:22.596,1,0
+2016,United States Grand Prix,2016-10-23,Lewis Hamilton,British,Mercedes,German,25.0,56,1:42.386,1,0
+2016,Japanese Grand Prix,2016-10-09,Nico Rosberg,German,Mercedes,German,25.0,53,1:36.049,1,0
+2016,Malaysian Grand Prix,2016-10-02,Daniel Ricciardo,Australian,Red Bull,Austrian,25.0,56,1:37.449,4,3
+2016,Singapore Grand Prix,2016-09-18,Nico Rosberg,German,Mercedes,German,25.0,61,1:50.296,1,0
+2016,Italian Grand Prix,2016-09-04,Nico Rosberg,German,Mercedes,German,25.0,53,1:26.599,2,1
+2016,Belgian Grand Prix,2016-08-28,Nico Rosberg,German,Mercedes,German,25.0,44,1:51.746,1,0
+2016,German Grand Prix,2016-07-31,Lewis Hamilton,British,Mercedes,German,25.0,67,1:18.746,2,1
+2016,Hungarian Grand Prix,2016-07-24,Lewis Hamilton,British,Mercedes,German,25.0,70,1:23.849,2,1
+2016,British Grand Prix,2016-07-10,Lewis Hamilton,British,Mercedes,German,25.0,52,1:35.771,1,0
+2016,Austrian Grand Prix,2016-07-03,Lewis Hamilton,British,Mercedes,German,25.0,71,1:08.411,1,0
+2016,European Grand Prix,2016-06-19,Nico Rosberg,German,Mercedes,German,25.0,51,1:46.485,1,0
+2016,Canadian Grand Prix,2016-06-12,Lewis Hamilton,British,Mercedes,German,25.0,70,1:15.981,1,0
+2016,Monaco Grand Prix,2016-05-29,Lewis Hamilton,British,Mercedes,German,25.0,78,1:17.939,3,2
+2016,Spanish Grand Prix,2016-05-15,Max Verstappen,Dutch,Red Bull,Austrian,25.0,66,1:28.816,4,3
+2016,Russian Grand Prix,2016-05-01,Nico Rosberg,German,Mercedes,German,25.0,53,1:39.094,1,0
+2016,Chinese Grand Prix,2016-04-17,Nico Rosberg,German,Mercedes,German,25.0,56,1:40.418,1,0
+2016,Bahrain Grand Prix,2016-04-03,Nico Rosberg,German,Mercedes,German,25.0,57,1:34.482,2,1
+2016,Australian Grand Prix,2016-03-20,Nico Rosberg,German,Mercedes,German,25.0,57,1:30.557,2,1
+2015,Abu Dhabi Grand Prix,2015-11-29,Nico Rosberg,German,Mercedes,German,25.0,55,1:45.356,1,0
+2015,Brazilian Grand Prix,2015-11-15,Nico Rosberg,German,Mercedes,German,25.0,71,1:14.957,1,0
+2015,Mexican Grand Prix,2015-11-01,Nico Rosberg,German,Mercedes,German,25.0,71,1:20.521,1,0
+2015,United States Grand Prix,2015-10-25,Lewis Hamilton,British,Mercedes,German,25.0,56,1:40.738,2,1
+2015,Russian Grand Prix,2015-10-11,Lewis Hamilton,British,Mercedes,German,25.0,53,1:40.573,2,1
+2015,Japanese Grand Prix,2015-09-27,Lewis Hamilton,British,Mercedes,German,25.0,53,1:36.145,2,1
+2015,Singapore Grand Prix,2015-09-20,Sebastian Vettel,German,Ferrari,Italian,25.0,61,1:50.069,1,0
+2015,Italian Grand Prix,2015-09-06,Lewis Hamilton,British,Mercedes,German,25.0,53,1:26.672,1,0
+2015,Belgian Grand Prix,2015-08-23,Lewis Hamilton,British,Mercedes,German,25.0,43,1:52.504,1,0
+2015,Hungarian Grand Prix,2015-07-26,Sebastian Vettel,German,Ferrari,Italian,25.0,69,1:26.772,3,2
+2015,British Grand Prix,2015-07-05,Lewis Hamilton,British,Mercedes,German,25.0,52,1:37.093,1,0
+2015,Austrian Grand Prix,2015-06-21,Nico Rosberg,German,Mercedes,German,25.0,71,1:11.235,2,1
+2015,Canadian Grand Prix,2015-06-07,Lewis Hamilton,British,Mercedes,German,25.0,70,1:17.472,1,0
+2015,Monaco Grand Prix,2015-05-24,Nico Rosberg,German,Mercedes,German,25.0,78,1:18.599,2,1
+2015,Spanish Grand Prix,2015-05-10,Nico Rosberg,German,Mercedes,German,25.0,66,1:29.109,1,0
+2015,Bahrain Grand Prix,2015-04-19,Lewis Hamilton,British,Mercedes,German,25.0,57,1:37.857,1,0
+2015,Chinese Grand Prix,2015-04-12,Lewis Hamilton,British,Mercedes,German,25.0,56,1:42.208,1,0
+2015,Malaysian Grand Prix,2015-03-29,Sebastian Vettel,German,Ferrari,Italian,25.0,56,1:43.648,2,1
+2015,Australian Grand Prix,2015-03-15,Lewis Hamilton,British,Mercedes,German,25.0,58,1:30.945,1,0
+2014,Abu Dhabi Grand Prix,2014-11-23,Lewis Hamilton,British,Mercedes,German,50.0,55,1:45.599,2,1
+2014,Brazilian Grand Prix,2014-11-09,Nico Rosberg,German,Mercedes,German,25.0,71,1:13.619,1,0
+2014,United States Grand Prix,2014-11-02,Lewis Hamilton,British,Mercedes,German,25.0,56,1:41.929,2,1
+2014,Russian Grand Prix,2014-10-12,Lewis Hamilton,British,Mercedes,German,25.0,53,1:41.606,1,0
+2014,Japanese Grand Prix,2014-10-05,Lewis Hamilton,British,Mercedes,German,25.0,44,1:51.600,2,1
+2014,Singapore Grand Prix,2014-09-21,Lewis Hamilton,British,Mercedes,German,25.0,60,1:50.417,1,0
+2014,Italian Grand Prix,2014-09-07,Lewis Hamilton,British,Mercedes,German,25.0,53,1:28.004,1,0
+2014,Belgian Grand Prix,2014-08-24,Daniel Ricciardo,Australian,Red Bull,Austrian,25.0,44,1:52.974,5,4
+2014,Hungarian Grand Prix,2014-07-27,Daniel Ricciardo,Australian,Red Bull,Austrian,25.0,70,1:26.608,4,3
+2014,German Grand Prix,2014-07-20,Nico Rosberg,German,Mercedes,German,25.0,67,1:21.298,1,0
+2014,British Grand Prix,2014-07-06,Lewis Hamilton,British,Mercedes,German,25.0,52,1:37.176,6,5
+2014,Austrian Grand Prix,2014-06-22,Nico Rosberg,German,Mercedes,German,25.0,71,1:12.598,3,2
+2014,Canadian Grand Prix,2014-06-08,Daniel Ricciardo,Australian,Red Bull,Austrian,25.0,70,1:18.640,6,5
+2014,Monaco Grand Prix,2014-05-25,Nico Rosberg,German,Mercedes,German,25.0,78,1:19.425,1,0
+2014,Spanish Grand Prix,2014-05-11,Lewis Hamilton,British,Mercedes,German,25.0,66,1:29.483,1,0
+2014,Chinese Grand Prix,2014-04-20,Lewis Hamilton,British,Mercedes,German,25.0,54,1:41.196,1,0
+2014,Bahrain Grand Prix,2014-04-06,Lewis Hamilton,British,Mercedes,German,25.0,57,1:37.108,2,1
+2014,Malaysian Grand Prix,2014-03-30,Lewis Hamilton,British,Mercedes,German,25.0,56,1:43.066,1,0
+2014,Australian Grand Prix,2014-03-16,Nico Rosberg,German,Mercedes,German,25.0,57,1:32.478,3,2
